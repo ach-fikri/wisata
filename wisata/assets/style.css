@@ -1,0 +1,7 @@
+.foto{
+    width: 50%;
+}
+
+#tabel >tr >td{
+    vertical-align: middle;
+}
